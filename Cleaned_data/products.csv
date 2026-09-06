@@ -1,0 +1,121 @@
+product_id,product_name,category,price
+101,Laptop 1,Electronics,81575.18
+102,Laptop 2,Electronics,78709.55
+103,Laptop 3,Electronics,86981.38
+104,Laptop 4,Electronics,81889.5
+105,Smartphone 1,Electronics,49176.91
+106,Smartphone 2,Electronics,65296.5
+107,Smartphone 3,Electronics,52550.35
+108,Smartphone 4,Electronics,34595.22
+109,Headphones 1,Electronics,3436.63
+110,Headphones 2,Electronics,2845.14
+111,Headphones 3,Electronics,10914.12
+112,Headphones 4,Electronics,8869.46
+113,Keyboard 1,Electronics,5680.63
+114,Keyboard 2,Electronics,3976.79
+115,Keyboard 3,Electronics,3314.34
+116,Keyboard 4,Electronics,1204.55
+117,Mouse 1,Electronics,2850.75
+118,Mouse 2,Electronics,2537.73
+119,Mouse 3,Electronics,3965.73
+120,Mouse 4,Electronics,1337.06
+121,Smartwatch 1,Electronics,10726.43
+122,Smartwatch 2,Electronics,12589.84
+123,Smartwatch 3,Electronics,12491.16
+124,Smartwatch 4,Electronics,11200.05
+125,Tablet 1,Electronics,37638.62
+126,Tablet 2,Electronics,18764.38
+127,Tablet 3,Electronics,35945.7
+128,Tablet 4,Electronics,32451.24
+129,Monitor 1,Electronics,36778.33
+130,Monitor 2,Electronics,35263.03
+131,Monitor 3,Electronics,18769.56
+132,Monitor 4,Electronics,17563.36
+133,Office Chair 1,Furniture,21688.11
+134,Office Chair 2,Furniture,13963.51
+135,Office Chair 3,Furniture,20409.16
+136,Office Chair 4,Furniture,7785.98
+137,Study Table 1,Furniture,12999.46
+138,Study Table 2,Furniture,15338.04
+139,Study Table 3,Furniture,17263.53
+140,Study Table 4,Furniture,8722.76
+141,Bookshelf 1,Furniture,15737.21
+142,Bookshelf 2,Furniture,12851.6
+143,Bookshelf 3,Furniture,5439.75
+144,Bookshelf 4,Furniture,15195.0
+145,Sofa 1,Furniture,50434.54
+146,Sofa 2,Furniture,61738.52
+147,Sofa 3,Furniture,41373.68
+148,Sofa 4,Furniture,28821.79
+149,Bedsheet 1,Home,824.78
+150,Bedsheet 2,Home,1863.8
+151,Bedsheet 3,Home,1545.37
+152,Bedsheet 4,Home,2831.05
+153,Water Bottle 1,Home,831.4
+154,Water Bottle 2,Home,1723.61
+155,Water Bottle 3,Home,1743.47
+156,Water Bottle 4,Home,1231.36
+157,Coffee Maker 1,Home,11322.27
+158,Coffee Maker 2,Home,9728.12
+159,Coffee Maker 3,Home,7695.17
+160,Coffee Maker 4,Home,4212.93
+161,Air Fryer 1,Home,9315.28
+162,Air Fryer 2,Home,10389.18
+163,Air Fryer 3,Home,13571.6
+164,Air Fryer 4,Home,9554.0
+165,Cookware Set 1,Home,11027.91
+166,Cookware Set 2,Home,8906.32
+167,Cookware Set 3,Home,3801.49
+168,Cookware Set 4,Home,11952.32
+169,Backpack 1,Fashion,3014.38
+170,Backpack 2,Fashion,2445.8
+171,Backpack 3,Fashion,3568.28
+172,Backpack 4,Fashion,1257.35
+173,Sneakers 1,Fashion,7019.62
+174,Sneakers 2,Fashion,5885.54
+175,Sneakers 3,Fashion,5134.73
+176,Sneakers 4,Fashion,9614.76
+177,T-Shirt 1,Fashion,1545.08
+178,T-Shirt 2,Fashion,938.23
+179,T-Shirt 3,Fashion,1417.93
+180,T-Shirt 4,Fashion,2338.77
+181,Jeans 1,Fashion,1781.12
+182,Jeans 2,Fashion,1906.06
+183,Jeans 3,Fashion,1243.0
+184,Jeans 4,Fashion,1246.83
+185,Jacket 1,Fashion,6112.84
+186,Jacket 2,Fashion,5607.04
+187,Jacket 3,Fashion,3646.21
+188,Jacket 4,Fashion,5431.22
+189,Skincare Kit 1,Beauty,2520.34
+190,Skincare Kit 2,Beauty,4806.88
+191,Skincare Kit 3,Beauty,4864.92
+192,Skincare Kit 4,Beauty,2510.45
+193,Perfume 1,Beauty,7008.71
+194,Perfume 2,Beauty,6457.01
+195,Perfume 3,Beauty,3308.0
+196,Perfume 4,Beauty,2777.87
+197,Hair Dryer 1,Beauty,4020.29
+198,Hair Dryer 2,Beauty,5797.42
+199,Hair Dryer 3,Beauty,6780.92
+200,Hair Dryer 4,Beauty,5699.68
+201,Face Wash 1,Beauty,1062.45
+202,Face Wash 2,Beauty,822.91
+203,Face Wash 3,Beauty,1043.64
+204,Face Wash 4,Beauty,995.2
+205,Protein Powder 1,Sports,3006.35
+206,Protein Powder 2,Sports,3566.37
+207,Protein Powder 3,Sports,4375.21
+208,Protein Powder 4,Sports,1947.38
+209,Yoga Mat 1,Sports,2154.54
+210,Yoga Mat 2,Sports,1020.2
+211,Yoga Mat 3,Sports,1626.43
+212,Yoga Mat 4,Sports,2154.9
+213,Dumbbells 1,Sports,2418.34
+214,Dumbbells 2,Sports,2379.88
+215,Dumbbells 3,Sports,3133.27
+216,Dumbbells 4,Sports,5494.29
+217,Running Shoes 1,Sports,2203.01
+218,Running Shoes 2,Sports,8329.41
+219,Running Shoes 3,Sports,3245.89
+220,Running Shoes 4,Sports,8932.59
