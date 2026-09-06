@@ -84,13 +84,20 @@ To deliver a 5-page interactive Power BI report that:
 
 ## 📸 Screenshots / Demos
 
-| Page | Preview |
-|---|---|
-| Executive Sales Dashboard | `Ecommerce_Dashboard_Screenshots/page1_executive_sales_dashboard.png` |
-| Customer Analysis | `Ecommerce_Dashboard_Screenshots/page2_Customer_Analysis.png` |
-| Product & Category Analysis | `Ecommerce_Dashboard_Screenshots/page3_product_category_analysis.png` |
-| Revenue at Risk & Cancellation Impact | `Ecommerce_Dashboard_Screenshots/page4_revenue_at_risk_cancellation.png` |
-| Key Insights & Recommendations | `Ecommerce_Dashboard_Screenshots/page5_key_insights_recommendations.png` |
+**Executive Sales Dashboard**
+![Executive Sales Dashboard](Ecommerce_Dashboard_Screenshots/page1_executive_sales_dashboard.png)
+
+**Customer Analysis**
+![Customer Analysis](Ecommerce_Dashboard_Screenshots/page2_customer_analysis.png)
+
+**Product & Category Analysis**
+![Product & Category Analysis](Ecommerce_Dashboard_Screenshots/page3_product_category_analysis.png)
+
+**Revenue at Risk & Cancellation Impact**
+![Revenue at Risk & Cancellation Impact](Ecommerce_Dashboard_Screenshots/page4_revenue_at_risk_cancellation.png)
+
+**Key Insights & Recommendations**
+![Key Insights & Recommendations](Ecommerce_Dashboard_Screenshots/page5_key_insights_recommendations.png)
 
 🎥 **Watch the interactive dashboard demo (with live slicer filtering):** [LinkedIn Post Link]
 
